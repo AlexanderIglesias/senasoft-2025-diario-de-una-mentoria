@@ -1,4 +1,6 @@
-<svg width="1600" height="840" viewBox="0 0 1600 840" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="840" viewBox="0 0 1600 840"
+     xmlns="http://www.w3.org/2000/svg">
+  <!-- ====== Gradientes de fondo ====== -->
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f1115"/>
@@ -9,31 +11,62 @@
       <stop offset="100%" stop-color="#0c1222" stop-opacity="0"/>
     </radialGradient>
   </defs>
+
+  <!-- Fondo -->
   <rect width="1600" height="840" fill="url(#g)"/>
   <rect width="1600" height="840" fill="url(#r)"/>
-  <!-- nodos microservicios -->
-  <g fill="none" stroke="#94a3b8" stroke-opacity="0.6">
-    <circle cx="250" cy="220" r="28"/><circle cx="380" cy="300" r="20"/>
-    <circle cx="290" cy="420" r="24"/><circle cx="480" cy="220" r="18"/>
-    <path d="M250,220 L380,300 L290,420 L480,220 L250,220" />
+
+  <!-- ====== Logo SENASoft (chevrons + SENA / Soft) ====== -->
+
+  <g id="senasoft-logo" transform="translate(140, 250) scale(1.12)">
+    <!-- chevron izquierdo -->
+    <text x="-55" y="60" fill="#cbd5e1"
+          font-family="Inter,Segoe UI,Arial"
+          font-size="72" font-weight="800">&lt;</text>
+    <!-- SENA -->
+    <text x="0" y="60" fill="#34d399"
+          font-family="Inter,Segoe UI,Arial"
+          font-size="72" font-weight="800">SENA</text>
+    <!-- slash -->
+    <text x="250" y="60" fill="#60a5fa"
+          font-family="Inter,Segoe UI,Arial"
+          font-size="72" font-weight="700">/</text>
+    <!-- Soft -->
+    <text x="290" y="60" fill="#93c5fd"
+          font-family="Inter,Segoe UI,Arial"
+          font-size="72" font-weight="600">Soft</text>
+    <!-- chevron derecho -->
+    <text x="500" y="60" fill="#cbd5e1"
+          font-family="Inter,Segoe UI,Arial"
+          font-size="72" font-weight="800">&gt;</text>
   </g>
-  <!-- título -->
-  <text x="120" y="360" fill="#e5e7eb" font-family="Inter,Segoe UI,Arial" font-size="64" font-weight="700">
+
+  <!-- ====== Título ====== -->
+  <text x="120" y="420" fill="#e5e7eb"
+        font-family="Inter,Segoe UI,Arial"
+        font-size="64" font-weight="700">
     SENASoft 2025 — Diario de una mentoría
   </text>
-  <!-- subtítulo -->
-  <text x="120" y="420" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial" font-size="30">
+
+  <!-- ====== Subtítulo ====== -->
+  <text x="120" y="470" fill="#cbd5e1"
+        font-family="Inter,Segoe UI,Arial"
+        font-size="30">
     Pereira · Hackathon · Comunidad · Aprendizaje
   </text>
-  <!-- frase -->
-  <foreignObject x="120" y="470" width="1360" height="240">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,Segoe UI,Arial; color:#9fb3c8; font-size:28px; line-height:1.35">
-      “Lo que aprendí es que a veces no debemos estar detrás del teclado para competir; a veces,
-      el verdadero reto es acompañar a otros a brillar.”
-    </div>
-  </foreignObject>
-  <!-- firma -->
-  <text x="120" y="760" fill="#64748b" font-family="Inter,Segoe UI,Arial" font-size="20">
+
+  <!-- ====== Frase ====== -->
+  <text x="120" y="520"
+        font-family="Inter,Segoe UI,Arial"
+        font-size="28" fill="#9fb3c8">
+    “Lo que aprendí es que a veces no debemos estar detrás del teclado para competir;
+    <tspan x="120" dy="36">a veces, el verdadero reto es acompañar a otros a brillar.”</tspan>
+  </text>
+
+  <!-- ====== Firma ====== -->
+  <text x="120" y="760" fill="#64748b"
+        font-family="Inter,Segoe UI,Arial"
+        font-size="20">
     @AlexanderIglesias
   </text>
 </svg>
