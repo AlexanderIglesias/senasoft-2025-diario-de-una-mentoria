@@ -15,7 +15,6 @@
 
 
 # 🧑‍💻 SENASoft 2025 — Mi experiencia desde la arena
-
 ---
 
 ## 🌟 Descripción
