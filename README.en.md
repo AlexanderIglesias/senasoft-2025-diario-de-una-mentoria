@@ -14,10 +14,6 @@
 > 🇬🇧 You’re viewing the English version.
 
 # My Experience at SENASoft 2025
-
-> *“What I learned is that sometimes we don’t need to be behind the keyboard to compete;  
-> sometimes, the real challenge is helping others shine.”*
-
 ---
 
 ## 🌟 Overview
