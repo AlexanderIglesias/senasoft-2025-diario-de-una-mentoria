@@ -16,9 +16,6 @@
 
 # 🧑‍💻 SENASoft 2025 — Mi experiencia desde la arena
 
-> *“Lo que aprendí es que a veces no debemos estar detrás del teclado para competir;  
-> a veces, el verdadero reto es acompañar a otros a brillar.”*
-
 ---
 
 ## 🌟 Descripción
