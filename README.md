@@ -7,7 +7,7 @@
 
 ## 🌟 Descripción
 
-Este repositorio nace de una experiencia muy especial vivida durante **SENASoft 2025**, una hackathon que reúne a aprendices de todo el país para poner a prueba sus habilidades en tecnología, desarrollo, innovación y trabajo en equipo.
+Este repositorio nace de una experiencia muy especial vivida durante **SENASoft 2025**, una hackathon que reúne a aprendices SENA de todo el país para poner a prueba sus habilidades en tecnología, desarrollo, innovación y trabajo en equipo.
 
 Mi intención con este espacio es compartir una historia que va más allá del código: un relato sobre **adaptarse a los cambios**, **apoyar a otros**, y **reconocer que enseñar también es aprender**.
 
