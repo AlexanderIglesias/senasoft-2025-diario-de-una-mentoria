@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="SENASoft 2025 — Diario de una mentoría" width="100%" />
+</p>
+<p align="center">
+  <a href="README.md"><img alt="ES" src="https://img.shields.io/badge/lang-ES-blue"></a>
+  <a href="README.en.md"><img alt="EN" src="https://img.shields.io/badge/lang-EN-lightgrey"></a>
+  <img alt="Topic: Mentoring" src="https://img.shields.io/badge/topic-mentoring-0f766e">
+  <img alt="Hackathon" src="https://img.shields.io/badge/event-hackathon-334155">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-64748b">
+</p>
+
+> 🌎 Read this in English: [English Version](README.en.md)
+
+> 🇪🇸 Estás viendo la versión en español.
+
+
 # 🧑‍💻 SENASoft 2025 — Mi experiencia desde la arena
 
 > *“Lo que aprendí es que a veces no debemos estar detrás del teclado para competir;  
